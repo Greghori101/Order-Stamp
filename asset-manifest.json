@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Order-Stamp/static/js/main.8a8f21bf.js",
+    "main.js": "/Order-Stamp/static/js/main.a4e9cdb1.js",
     "index.html": "/Order-Stamp/index.html",
-    "main.8a8f21bf.js.map": "/Order-Stamp/static/js/main.8a8f21bf.js.map"
+    "main.a4e9cdb1.js.map": "/Order-Stamp/static/js/main.a4e9cdb1.js.map"
   },
   "entrypoints": [
-    "static/js/main.8a8f21bf.js"
+    "static/js/main.a4e9cdb1.js"
   ]
 }
